@@ -1,0 +1,28 @@
+13:58:07: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\common\modules\logger\logger_main_setup.py | setup_main_logger | 62] main logger initialized
+13:58:07: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | main | 112] Connected!
+13:58:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:09: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:10: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:10: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:11: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:12: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:13: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:14: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:15: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:16: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: False
+13:58:17: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: False
+13:58:18: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: False
+13:58:19: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: False
+13:58:20: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:21: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:21: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:22: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:22: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:23: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:24: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:24: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:25: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:26: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None
+13:58:26: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: True
+13:58:27: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Received item from output queue: None

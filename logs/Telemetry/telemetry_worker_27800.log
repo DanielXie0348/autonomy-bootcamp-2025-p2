@@ -1,0 +1,25 @@
+17:02:06: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 40] Logger initialized
+17:02:06: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=0.00, Z=-0.00
+17:02:06: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=0.50, Z=-0.00
+17:02:07: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=1.00, Z=-0.00
+17:02:07: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=1.50, Z=-0.00
+17:02:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=2.00, Z=-0.00
+17:02:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=2.50, Z=-0.00
+17:02:09: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=3.00, Z=-0.00
+17:02:09: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=3.50, Z=-0.00
+17:02:10: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=4.00, Z=-0.00
+17:02:10: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=4.50, Z=-0.00
+17:02:11: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 61] Failed to get telemetry data
+17:02:12: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 61] Failed to get telemetry data
+17:02:13: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 61] Failed to get telemetry data
+17:02:14: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=0.00, Z=-0.00
+17:02:14: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=0.33, Z=-0.00
+17:02:15: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=0.67, Z=-0.00
+17:02:15: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=1.33, Z=-0.00
+17:02:16: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=1.67, Z=-0.00
+17:02:16: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=2.33, Z=-0.00
+17:02:17: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=2.67, Z=-0.00
+17:02:17: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=3.33, Z=-0.00
+17:02:18: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=3.67, Z=-0.00
+17:02:18: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 59] Telemetry updated: X=0.00, Y=4.33, Z=-0.00
+17:02:19: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\telemetry\telemetry_worker.py | telemetry_worker | 61] Failed to get telemetry data

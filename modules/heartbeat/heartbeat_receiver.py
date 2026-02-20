@@ -4,7 +4,7 @@ Heartbeat receiving logic.
 
 from pymavlink import mavutil
 
-from ..common.modules.logger import logger
+from ..common.modules.logger import Logger  # pylint: disable=unused-import
 
 
 # =================================================================================================
@@ -21,34 +21,38 @@ class HeartbeatReceiver:
     def create(
         cls,
         connection: mavutil.mavfile,
-        args,  # Put your own arguments here
-        local_logger: logger.Logger,
-    ):
+        threshold: int,
+    ) -> tuple[bool, "HeartbeatReceiver | None"]:
         """
-        Falliable create (instantiation) method to create a HeartbeatReceiver object.
+        Factory method to create a HeartbeatReceiver instance.
         """
-        pass  # Create a HeartbeatReceiver object
+
+        return True, cls(cls.__private_key, threshold, connection)
 
     def __init__(
         self,
         key: object,
+        threshold: int,
         connection: mavutil.mavfile,
-        args,  # Put your own arguments here
     ) -> None:
         assert key is HeartbeatReceiver.__private_key, "Use create() method"
+        self.__threshold = threshold
+        self.__connection = connection
+        self.missed_heartbeats = 0
 
-        # Do any intializiation here
+    def run(self) -> bool:
+        """
+        Run the heartbeat receiver logic.
+        """
+        msg = self.__connection.recv_match(type="HEARTBEAT", blocking=True, timeout=1.0)
+        if msg is None:
+            self.missed_heartbeats += 1
+            if self.missed_heartbeats >= self.__threshold:
+                return False
+            return True
 
-    def run(
-        self,
-        args,  # Put your own arguments here
-    ):
-        """
-        Attempt to recieve a heartbeat message.
-        If disconnected for over a threshold number of periods,
-        the connection is considered disconnected.
-        """
-        pass
+        self.missed_heartbeats = 0
+        return True
 
 
 # =================================================================================================

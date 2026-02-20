@@ -1,0 +1,29 @@
+13:58:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 41] Logger initialized
+13:58:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 57] HeartbeatReceiver object created successfully
+13:58:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:08: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:09: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:10: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:10: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:11: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:12: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:13: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 2
+13:58:14: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 3
+13:58:15: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 4
+13:58:16: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 5
+13:58:17: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 6
+13:58:18: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 7
+13:58:19: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 8
+13:58:20: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:21: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:21: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:22: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:22: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:23: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:24: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:24: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:25: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:26: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 2
+13:58:26: [INFO] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 66] Heartbeat received
+13:58:27: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 1
+13:58:28: [ERROR] [C:\Users\16478\Documents\UWARG\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 70] Connection Lost! Consecutive missed heartbeats: 2

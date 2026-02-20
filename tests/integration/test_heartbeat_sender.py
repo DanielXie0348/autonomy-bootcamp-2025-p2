@@ -45,12 +45,12 @@ def start_drone() -> None:
 #                            ↓ BOOTCAMPERS MODIFY BELOW THIS COMMENT ↓
 # =================================================================================================
 def stop(
-    args,  # Add any necessary arguments
+    controller: worker_controller.WorkerController,
 ) -> None:
     """
     Stop the workers.
     """
-    pass  # Add logic to stop your worker
+    controller.request_exit()  # This tells the worker to stop the loop
 
 
 # =================================================================================================
@@ -83,7 +83,7 @@ def main() -> int:
     # Mocked GCS, connect to mocked drone which is listening at CONNECTION_STRING
     # source_system = 255 (groundside)
     # source_component = 0 (ground control station)
-    connection = mavutil.mavlink_connection(CONNECTION_STRING)
+    connection = mavutil.mavlink_connection(CONNECTION_STRING, source_system=255, source_component=0)
     # Don't send another heartbeat since the worker will do so
     main_logger.info("Connected!")
     # pylint: enable=duplicate-code
@@ -93,12 +93,15 @@ def main() -> int:
     # =============================================================================================
     # Mock starting a worker, since cannot actually start a new process
     # Create a worker controller for your worker
+    controller = worker_controller.WorkerController()
 
     # Just set a timer to stop the worker after a while, since the worker infinite loops
-    threading.Timer(HEARTBEAT_PERIOD * NUM_TRIALS, stop, (args,)).start()
+    args = (controller,)
+    threading.Timer(HEARTBEAT_PERIOD * NUM_TRIALS, stop, args).start()
 
     heartbeat_sender_worker.heartbeat_sender_worker(
-        # Place your own arguments here
+        connection=connection,
+        controller=controller,
     )
     # =============================================================================================
     #                          ↑ BOOTCAMPERS MODIFY ABOVE THIS COMMENT ↑
