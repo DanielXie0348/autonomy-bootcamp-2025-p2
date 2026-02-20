@@ -83,7 +83,9 @@ def main() -> int:
     # Mocked GCS, connect to mocked drone which is listening at CONNECTION_STRING
     # source_system = 255 (groundside)
     # source_component = 0 (ground control station)
-    connection = mavutil.mavlink_connection(CONNECTION_STRING, source_system=255, source_component=0)
+    connection = mavutil.mavlink_connection(
+        CONNECTION_STRING, source_system=255, source_component=0
+    )
     # Don't send another heartbeat since the worker will do so
     main_logger.info("Connected!")
     # pylint: enable=duplicate-code
