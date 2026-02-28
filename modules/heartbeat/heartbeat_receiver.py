@@ -4,7 +4,7 @@ Heartbeat receiving logic.
 
 from pymavlink import mavutil
 
-from ..common.modules.logger import Logger  # pylint: disable=unused-import
+from ..common.modules.logger.logger import Logger  # pylint: disable=unused-import, no-name-in-module
 
 
 # =================================================================================================
